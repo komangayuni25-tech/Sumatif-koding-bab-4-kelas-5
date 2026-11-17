@@ -1,0 +1,8 @@
+{
+  "name": "Tes Sumatif koding bab 4 kelas 5",
+  "description": "Aplikasi Asesmen Sumatif Koding Kelas 5 SD Negeri 3 Loloan Timur materi Sistem Komputer Tingkat Pradasar & Keamanan Informasi Pribadi (40 PG & 5 PGK Kategori bergambar), matriks respon 45 butir, kisi-kisi resmi, dan sinkronisasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
